@@ -1,0 +1,16 @@
+<hr>
+    <a href="index.html">Home</a> |
+    <a href="contact.html" >Contact</a>
+    <hr>
+    <table cellspacing="10">
+        <tr>
+            <td> <img src="image/hh.jpg" alt="Hailemariam Fikadie profile picture "></td>
+            <td>
+                <h1>Hailemariam Fikadie</h1>
+                <h3>Student , Addis Ababa institue of Technology</h3>
+            <p>
+                My name is Hailemariam Fikadie, I'm currently a student at Addis ababa university
+             </p>
+            </td>
+        </tr>
+    </table>
